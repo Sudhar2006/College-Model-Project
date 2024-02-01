@@ -184,7 +184,7 @@ nav .fa-solid{
     justify-content: space-between;
 }
 .course-col{
-    border: 2px solid  #333;
+    /* border: 2px solid  #333; */
     padding: 20px 12px;
     background: #fff3f3;
     border-radius: 10px;
